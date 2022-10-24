@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "com.krillinator.demo.Main",
+      "projectName": "Projekt_Uppgift_1_8ed97f51"
+    },
+    {
+      "type": "java",
+      "name": "Launch Program",
+      "request": "launch",
+      "console": "internalConsole"
+    }
+  ]
+}
